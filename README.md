@@ -1,5 +1,4 @@
-![download](https://github.com/user-attachments/assets/02b76039-d496-474d-8230-fa97daa941c0)
-
+<h3 align="center"><em>![download](https://github.com/user-attachments/assets/02b76039-d496-474d-8230-fa97daa941c0)"</em></h3>
 
 <h1 align="center">👾 Soumyadipta Birabar</h1>
 <h3 align="center">Security Engineer • Red Teaming • VAPT • AI-Powered Defense</h3>
@@ -21,7 +20,6 @@ My work sits at the intersection of **AI, offensive security, and purple teaming
 
 ---
 
-## 🕶️ Hacker One-Liner
 **I fuse AI with an offensive mindset to build tools that outsmart threats — not just detect them.**
 
 ---

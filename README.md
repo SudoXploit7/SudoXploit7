@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There+👋;+I'm+Soumyadipta+Birabar;+Security+Engineer+%7C+Red+Team+%7C+VAPT;+AI+%2B+Cybersecurity+Automation" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-💠-00eaff?style=for-the-badge&logoColor=white" />
+<div align="right">
+  <img src="https://img.shields.io/badge/◎%20matrix%20online-008f2a?style=flat&labelColor=000000&color=008f2a" height="20"/>
 </div>
 
 ---

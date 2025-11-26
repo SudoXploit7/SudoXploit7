@@ -165,6 +165,6 @@ AI-assisted log analysis engine for anomaly detection and threat pattern identif
 ## 🐍 Snake Eating My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SudoXploit7/SudoXploit7/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/SudoXploit7/SudoXploit7/output/snake.svg?colorful=1" />
 </div>
 

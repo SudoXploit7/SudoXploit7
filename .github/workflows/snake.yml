@@ -5,8 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # every day at midnight UTC
+  workflow_dispatch:       # allows manual run
 
 jobs:
   generate:
@@ -16,21 +16,25 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      - name: Generate colorful snake
+      - name: Generate colorful snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SudoXploit7
-          color_snake: "#FF00FF"
-          color_dots: "#FF00FF,#00E5FF,#00FF00,#FFD300,#FF6B00,#FF0000"
-          output: dist/snake.svg
+          color_snake: "#FF00FF"  # neon pink snake
+          color_dots: "#00FFFF,#00FF00,#FFFF00,#FF8800,#FF0000"  # rainbow trail
+          output: snake.svg       # generate snake.svg in repo root
 
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit snake.svg to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # switch to / create output branch
+          git checkout -B output
+
+          # move generated file (already in root as snake.svg)
+          git add snake.svg
+
+          git commit -m "Update colorful snake" || echo "Nothing to commit"
+
+          git push -f origin output

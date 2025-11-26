@@ -16,11 +16,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate matrix green snake
+      - name: Generate colorful snake
         uses: Platane/snk@v3
         with:
           github_user_name: SudoXploit7
-          theme: matrix
+          palette: "rainbow"
           outputs: |
             dist/snake.svg
 

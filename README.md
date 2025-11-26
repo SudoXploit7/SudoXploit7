@@ -1,137 +1,144 @@
-![i](https://github.com/user-attachments/assets/d80b0b93-26b7-456b-b894-0b679e64d877)
-
-<h1 align="center">👾 Soumyadipta Birabar</h1>
-<h3 align="center">Security Engineer • Red Teaming • VAPT • AI-Powered Defense</h3>
-
----
-
-## 🧭 About Me
-I’m a security engineer passionate about **breaking things ethically** and **building tools that defend intelligently**.  
-My work sits at the intersection of **AI, offensive security, and purple teaming**, where I aim to create systems that think, hunt, and respond like modern adversaries.
+<!-- Typing SVG Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There+👋;+I'm+Soumyadipta+Birabar;+Security+Engineer+%7C+Red+Team+%7C+VAPT;+AI+%2B+Cybersecurity+Automation" alt="Typing SVG" />
+</div>
 
 ---
 
-## ⚡ What I Do
-**I fuse AI with an offensive mindset to build tools that outsmart threats — not just detect them.**
-- 🔥 **Creator of FirewallGPT** – RAG-powered firewall analysis assistant  
-- 🛡️ **Creator of SentinelX** – AI-driven log analysis & anomaly detection  
-- 🗡️ Currently mastering **Red Team Ops, VAPT, Exploitation & Evasion**  
-- 🤖 Build AI-assisted security automation tools  
-- 🎯 Passion for **attack chains, detection engineering, recon & adversary simulation**
+## 🧑‍💻 About Me
+
+I’m a **Cybersecurity Engineer** passionate about:
+
+- 🗡️ **Red Teaming** & **Vulnerability Assessment (VAPT)**  
+- 🛡️ **Purple Teaming** – attacker mindset + defender intelligence  
+- 🤖 **AI + Cybersecurity Automation**  
+- 🔍 **Web exploitation, evasion, recon & enumeration**  
+- 📚 Always learning new techniques to think like attackers  
+- ⚡ Strong interest in detection engineering & adversary simulation  
 
 ---
 
-# 🧰 Tech Stack & Tools
+<div align="center">
+  <em><b>“Everything is exploitable — the real power lies in knowing what shouldn’t be.”</b></em>
+</div>
 
-## 🔹 Languages & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-  <img src="https://skillicons.dev/icons?i=bash" height="45" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="45" />
-  <img src="https://skillicons.dev/icons?i=go" height="45" />
-  <img src="https://skillicons.dev/icons?i=c" height="45" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" />
+---
+
+## 🧰 Tech Stack
+
+### 🔹 Languages & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,js,ts,go,c,java&perline=7" />
+</p>
+
+### 🔹 Cybersecurity & OS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,raspberrypi&perline=4" />
+</p>
+
+<!-- Security Tools -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004F91?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-0088CC?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-333333?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nikto-555555?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BloodHound-990000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Impacket-222222?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Volatility-FFBF00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autopsy-0066CC?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🔹 AI / ML / Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,redis&perline=4" />
+</p>
+
+### 🔹 Web & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,react,html,css&perline=7" />
+</p>
+
+### 🔹 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=4" />
+</p>
+
+### 🔹 DevOps & Infra
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,githubactions,aws&perline=6" />
+</p>
+
+### 🔹 IDEs & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,windows&perline=3" />
 </p>
 
 ---
 
-## 🔹 Offensive Security Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" height="45" />
-  <img src="https://skillicons.dev/icons?i=kali" height="45" />
-  <img src="https://skillicons.dev/icons?i=arch" height="45" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="45" />
-</p>
-
-**Other tools:**  
-Burp Suite • Nmap • Metasploit • SQLmap • Hydra • Gobuster • Nikto • Responder • BloodHound • Impacket • CrackMapExec • Volatility • Autopsy • SIEMs
-
----
-
-## 🔹 AI / ML / RAG / Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="45" />
-  <img src="https://skillicons.dev/icons?i=redis" height="45" />
-</p>
-
-**Skills:** LangChain • FAISS • ChromaDB • Embeddings • Scikit-learn • Local LLM Pipelines
-
----
-
-## 🔹 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" height="45" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="45" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" />
-</p>
-
----
-
-## 🔹 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="45" />
-</p>
-
----
-
-## 🔹 Cloud / DevOps / Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="45" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="45" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="45" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" />
-</p>
-
----
-
-## 🔹 Platforms & Environments
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="45" />
-  <img src="https://skillicons.dev/icons?i=windows" height="45" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" />
-</p>
-
----
-
-# 🧪 Featured Projects
+## 🚀 Projects
 
 ### 🔥 **FirewallGPT**
-AI-powered firewall analysis assistant using a RAG pipeline  
-→ Explains rules, analyzes configs, and provides remediation insights.
+RAG-powered firewall analysis assistant for rule inspection, explanations & misconfiguration detection.
 
 ### 🛡️ **SentinelX**
-AI-assisted log analysis engine for threat detection and anomaly spotting.
+AI-assisted log analysis engine for anomaly detection and threat pattern identification.
 
-### 👾 **Other Experiments**
+### 🕶️ **Security Tools & Experiments**
 - Recon automation  
 - Payload crafting  
 - WAF bypasses  
-- Log enrichment tools  
-- Exploit development  
-- CTF-style labs & attack chain simulations  
+- Evasion & exploit tests  
+- Log enrichment  
+- CTF-style challenges  
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Stats  
 
-- **LinkedIn:** https://www.linkedin.com/in/soumyadb/  
-- **TryHackMe:** https://tryhackme.com/p/SudoXploit7  
-- **Medium:** https://medium.com/@soumyadiptabirabar  
-- **Email:** **soumyadiptabirabar@gmail.com**
+### ⭐ Profile Summary Card  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudoXploit7&theme=tokyonight" alt="GitHub Profile Summary Card"/>
+</div>
+
+### ⭐ Repos Card  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SudoXploit7&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SudoXploit7&theme=tokyonight" height="180"/>
+</div>
+
+### ⭐ Productive Time Card  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SudoXploit7&theme=tokyonight" height="180"/>
+</div>
 
 ---
 
-<h3 align="center"><em>"Everything is exploitable — the art lies in understanding what shouldn't be."</em></h3>
+## 🔗 Connect With Me
+
+<div align="left">
+  <a href="mailto:soumyadiptabirabar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/soumyadb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/SudoXploit7">
+    <img src="https://img.shields.io/badge/TryHackMe-EF3D42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@soumyadiptabirabar">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<!-- 🐍 Snake animation -->
+<!-- 
+To enable, follow steps in ChatGPT message:
+https://raw.githubusercontent.com/SudoXploit7/SudoXploit7/output/snake.svg 
+-->
+

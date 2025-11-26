@@ -1,6 +1,4 @@
-<div align="center">
-  <img src=![download](https://github.com/user-attachments/assets/02b76039-d496-474d-8230-fa97daa941c0)"/>
-</div>
+![i](https://github.com/user-attachments/assets/d80b0b93-26b7-456b-b894-0b679e64d877)
 
 <h1 align="center">👾 Soumyadipta Birabar</h1>
 <h3 align="center">Security Engineer • Red Teaming • VAPT • AI-Powered Defense</h3>
@@ -14,15 +12,12 @@ My work sits at the intersection of **AI, offensive security, and purple teaming
 ---
 
 ## ⚡ What I Do
+**I fuse AI with an offensive mindset to build tools that outsmart threats — not just detect them.**
 - 🔥 **Creator of FirewallGPT** – RAG-powered firewall analysis assistant  
 - 🛡️ **Creator of SentinelX** – AI-driven log analysis & anomaly detection  
 - 🗡️ Currently mastering **Red Team Ops, VAPT, Exploitation & Evasion**  
 - 🤖 Build AI-assisted security automation tools  
 - 🎯 Passion for **attack chains, detection engineering, recon & adversary simulation**
-
----
-
-**I fuse AI with an offensive mindset to build tools that outsmart threats — not just detect them.**
 
 ---
 

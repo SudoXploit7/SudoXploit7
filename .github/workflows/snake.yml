@@ -1,9 +1,12 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at 00:00 UTC
-  workflow_dispatch:       # Allows manual trigger from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -13,10 +16,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate matrix green snake
         uses: Platane/snk@v3
         with:
           github_user_name: SudoXploit7
+          theme: matrix
           outputs: |
             dist/snake.svg
 

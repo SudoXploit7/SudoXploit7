@@ -31,26 +31,52 @@ I’m a **Cybersecurity Engineer** passionate about:
   <img src="https://skillicons.dev/icons?i=python,bash,js,ts,go,c,java&perline=7" />
 </p>
 
-### 🔹 Cybersecurity & OS
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,raspberrypi&perline=4" />
-</p>
+---
 
-<!-- Security Tools -->
+## 🗡️ Offensive Security (Red Team)
+
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004F91?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-0088CC?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004F91?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hydra-333333?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nikto-555555?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BloodHound-990000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Impacket-222222?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BloodHound-990000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responder-5C2D91?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrackMapExec-111111?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-222222?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-DAA520?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+## 🛡️ Defensive Security (Blue Team)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Volatility-FFBF00?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autopsy-0066CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/Wazuh-5A0FC8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSQuery-4285F4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Suricata-EF3D42?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sigma%20Rules-1E90FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YARA-FF0000?style=for-the-badge&logoColor=white"/>
 </p>
+
+---
+
+### 🔹 Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,raspberrypi&perline=4" />
+</p>
+
+---
 
 ### 🔹 AI / ML / Automation
 <p align="left">

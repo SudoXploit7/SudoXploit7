@@ -16,13 +16,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate colorful snake
-        uses: Platane/snk@v3
+      - name: Generate COLORFUL snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SudoXploit7
-          palette: "rainbow"
-          outputs: |
-            dist/snake.svg
+          color_snake: "#FF00FF"
+          color_dots: "#FF00FF,#00E5FF,#00FF00,#FFD300,#FF6B00,#FF0000"
+          output: dist/snake.svg
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

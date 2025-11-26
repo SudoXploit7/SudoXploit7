@@ -1,7 +1,5 @@
-<!-- 🔥 Hacker Banner -->
-<div align="center">
-  <img src="./download.gif" width="100%" alt="Hacker GIF"/>
-</div>
+![download](https://github.com/user-attachments/assets/02b76039-d496-474d-8230-fa97daa941c0)
+
 
 <h1 align="center">👾 Soumyadipta Birabar</h1>
 <h3 align="center">Security Engineer • Red Teaming • VAPT • AI-Powered Defense</h3>

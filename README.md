@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There+👋;+I'm+Soumyadipta+Birabar;+Security+Engineer+%7C+Red+Team+%7C+VAPT;+AI+%2B+Cybersecurity+Automation" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SudoXploit7&label=Profile%20Views&color=0ef&style=flat-square" alt="profile views"/>
+</div>
+
 ---
 
 ## 🧑‍💻 About Me

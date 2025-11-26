@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SudoXploit7&label=Profile%20Views&color=0ef&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Profile_Views-💠-00eaff?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
@@ -19,12 +19,6 @@ I’m a **Cybersecurity Engineer** passionate about:
 - 🔍 **Web exploitation, evasion, recon & enumeration**  
 - 📚 Always learning new techniques to think like attackers  
 - ⚡ Strong interest in detection engineering & adversary simulation  
-
----
-
-<div align="center">
-  <em><b>“Everything is exploitable — the real power lies in knowing what shouldn’t be.”</b></em>
-</div>
 
 ---
 
@@ -162,6 +156,12 @@ AI-assisted log analysis engine for anomaly detection and threat pattern identif
   <a href="https://medium.com/@soumyadiptabirabar">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+</div>
+
+---
+
+<div align="center">
+  <em><b>“Everything is exploitable — the real power lies in knowing what shouldn’t be.”</b></em>
 </div>
 
 ---

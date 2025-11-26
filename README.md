@@ -136,9 +136,9 @@ AI-assisted log analysis engine for anomaly detection and threat pattern identif
 
 ---
 
-<!-- 🐍 Snake animation -->
-<!-- 
-To enable, follow steps in ChatGPT message:
-https://raw.githubusercontent.com/SudoXploit7/SudoXploit7/output/snake.svg 
--->
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SudoXploit7/SudoXploit7/output/snake.svg" alt="Snake animation"/>
+</div>
 

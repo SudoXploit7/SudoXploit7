@@ -16,7 +16,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate COLORFUL snake
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate colorful snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SudoXploit7

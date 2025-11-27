@@ -29,7 +29,6 @@ I’m a **Cybersecurity Engineer** passionate about:
   <img src="https://skillicons.dev/icons?i=python,bash,js,ts,go,c,java&perline=7" />
 </p>
 
----
 
 ## 🗡️ Offensive Security (Red Team)
 
@@ -49,7 +48,6 @@ I’m a **Cybersecurity Engineer** passionate about:
   <img src="https://img.shields.io/badge/Hashcat-DAA520?style=for-the-badge&logoColor=white"/>
 </p>
 
----
 
 ## 🛡️ Defensive Security (Blue Team)
 
@@ -67,14 +65,12 @@ I’m a **Cybersecurity Engineer** passionate about:
   <img src="https://img.shields.io/badge/YARA-FF0000?style=for-the-badge&logoColor=white"/>
 </p>
 
----
 
 ### 🔹 Operating Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,raspberrypi&perline=4" />
 </p>
 
----
 
 ### 🔹 AI / ML / Automation
 <p align="left">

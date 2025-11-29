@@ -149,7 +149,7 @@ AI-assisted log analysis engine for anomaly detection and threat pattern identif
   <a href="https://tryhackme.com/p/SudoXploit7">
     <img src="https://img.shields.io/badge/TryHackMe-EF3D42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@soumyadiptabirabar">
+  <a href="https://medium.com/@SudoXploit7">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </div>

@@ -117,6 +117,25 @@ AI-assisted log analysis engine for anomaly detection and threat pattern identif
 
 ---
 
+## 🔗 Connect With Me
+
+<div align="left">
+  <a href="mailto:soumyadiptabirabar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/soumyadb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/SudoXploit7">
+    <img src="https://img.shields.io/badge/TryHackMe-EF3D42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@SudoXploit7">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats  
 
 ### ⭐ Profile Summary Card  
@@ -133,25 +152,6 @@ AI-assisted log analysis engine for anomaly detection and threat pattern identif
 ### ⭐ Productive Time Card  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SudoXploit7&theme=tokyonight" height="180"/>
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="left">
-  <a href="mailto:soumyadiptabirabar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/soumyadb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tryhackme.com/p/SudoXploit7">
-    <img src="https://img.shields.io/badge/TryHackMe-EF3D42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@SudoXploit7">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
 </div>
 
 ---
